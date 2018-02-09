@@ -1,0 +1,11 @@
+/Users/matt/Godot Samples/Test/Run/bin/Debug/netcoreapp2.0/Run.deps.json
+/Users/matt/Godot Samples/Test/Run/bin/Debug/netcoreapp2.0/Run.runtimeconfig.json
+/Users/matt/Godot Samples/Test/Run/bin/Debug/netcoreapp2.0/Run.runtimeconfig.dev.json
+/Users/matt/Godot Samples/Test/Run/bin/Debug/netcoreapp2.0/Run.dll
+/Users/matt/Godot Samples/Test/Run/bin/Debug/netcoreapp2.0/Run.pdb
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.csprojResolveAssemblyReference.cache
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.csproj.CoreCompileInputs.cache
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.AssemblyInfoInputs.cache
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.AssemblyInfo.cs
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.dll
+/Users/matt/Godot Samples/Test/Run/obj/Debug/netcoreapp2.0/Run.pdb

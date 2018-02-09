@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{390E6A58-25BA-47C4-AB92-23EC3F6D4831}|Default">
+  <MonoDevelop.Ide.ItemProperties.Run PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hexasphere.cs">
+    <Files>
+      <File FileName="Point.cs" Line="16" Column="9" />
+      <File FileName="Face.cs" Line="9" Column="35" />
+      <File FileName="Tile.cs" Line="75" Column="9" />
+      <File FileName="Hexasphere.cs" Line="11" Column="52" />
+      <File FileName="Vector.cs" Line="58" Column="27" />
+      <File FileName="MyNode.cs" Line="17" Column="33" />
+      <File FileName="TestRun.cs" Line="4" Column="19" />
+      <File FileName="Run/Program.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
