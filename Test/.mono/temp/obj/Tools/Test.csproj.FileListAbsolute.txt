@@ -1,6 +1,0 @@
-/Users/matt/Godot Samples/Test/.mono/temp/bin/Tools/Test.dll
-/Users/matt/Godot Samples/Test/.mono/temp/bin/Tools/Test.pdb
-/Users/matt/Godot Samples/Test/.mono/temp/obj/Tools/Test.csprojResolveAssemblyReference.cache
-/Users/matt/Godot Samples/Test/.mono/temp/obj/Tools/Test.csproj.CoreCompileInputs.cache
-/Users/matt/Godot Samples/Test/.mono/temp/obj/Tools/Test.dll
-/Users/matt/Godot Samples/Test/.mono/temp/obj/Tools/Test.pdb
